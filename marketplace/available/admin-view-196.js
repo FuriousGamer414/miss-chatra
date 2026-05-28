@@ -1,17 +1,17 @@
 // ╔══════════════════════════════════════════════════════╗
 // ║  Obfuscationary by JusticeTech                      ║
 // ║  Version  : 4.0.3                                     ║
-// ║  Encrypted: 2026-05-28 07:45:25 UTC                   ║
-// ║  Cipher   : AES-256-GCM                               ║
+// ║  Encrypted: 2026-05-28 21:28:44 UTC                   ║
+// ║  Cipher   : AES-256-GCM (Quantum-KDF)                 ║
 // ║  Tamper   : Protected via SHA-256 integrity check    ║
 // ╚══════════════════════════════════════════════════════╝
 
 // Encrypted by Obfuscationary by JusticeTech v4.0.3
 (async()=>{
   if(typeof require==='undefined')throw new Error('[Obfuscationary] Use Node.js.');
-  const _b64='2L9VjFDAUaUtY93E/0J5tsEjdA+eGOu/Hj/1t07MbreoDSWKU3Ad44BLsxrywPkgndJowOHIxsOBdh2PCrzuVOGpbYaMbzKtEfDgGXQI2Wj6y5hxqXJ8nA7Jhmv5tpaOBDxc0EY+Y0XEqVS3Io7K7UPgBkGwTIh0YFe+1Aur1wlTniXjhEZaqTIsvGR1pjImFdco946PDEwA6GGn2+rZyHZKbUsz3ib5T9/yJt2wWP8OaVs4GFEEl+4CAJSGXe2iqlqn7JOS01tmfTE7m8i7SExvrQEgH/XE5w9AK729Kx7o0XFzAotPcmpVil5o0kldPoyrA8DJDBSakDpwvh14PVUz2G1Ij4mTbrQSai6zNcZyCmDT5HoPKncPO3jRD+DizjPKR4WPD2lulk81hNRpHUx/VZmOFkIN/Fv4iwAblEU/34tjWKhk7duHOWm1ni6XCaucpodql6UDYRkOvpqBLMOlVtPvJLUpYD6rFy8KyuCEwi0ZxGyQeJwg6p+EKjwVFoc6pWhpwZGws2Ie1pN6dFQCuCoJFoPgT/QsaDR1u0yABqT21wyYVOMpJFWM17u4ikt8OieaGJ3BmtaVVMWUlWNCw7xNXZAP5QnED8X6CTbTsNkJuLnfZpSqox3uwLjlfQmx/cguhpeW8E7XYkqyUJkXEaV4jc+HVbdKMs/3i75N+cJBFsyV57oY6Xbcd+UoKZEGfHq9xidFp8ktOpOu0oMQBbDLZYtvTktm7mFwdodArfbD5W5DUGRORsGvop4U5QM+O1dY2M7HUH+YmDqLt2nsb1xpgp1ewO8mfodplD0b69MQWmFDqlfp3hNNC3tPIgcVyy7yUQ2yDFbKhJL+QU212UIsuVcRqyr7jQNEHROPfEOpv/6sjRHNd/UBusDpIkVwpBrM43lgFBU54ySnM7+ucnHCraoevkSO/zUDmhZHtg4/NjRVqzUlW37cmnZVBSE1yzAwPb7XEGdT7TIqGhGZTp0cpBDH814v/MHeFQvrUPs=';const _IH='d80e4234203471650cb849390ccbf8b1bd25d72bf8bfc3fb1603ab5896da48b1';let _src;
+  const _b64='UUVOQxwGPlTVk4s0sTgtqRlbkUud6JLyo57+Ay5tTzI6/Ec0iMxwPZwHXdya0crKeZ+5jpdy6YNKSbbybu3yuXcQUqAb8wzegc+Cc8g67TgdXsFwADTjKw1Xb07nUqm47AZ5z+UrRfgrYdyWYYZuRDB9OmyHBWxqxXu4iAdD0wd+BypEGMa+EwmbBMgHuc/UaoNLKv6redASdFvRwecXI0O3MxyzdETppLMWa3e5f+VAKXBfq5MMFbOwcI6dMOzeYZMxTIp+xis7cIMPtYKrXZdwAhAaC5is3EzelBnupa/TSH5xL+kxn5Ry+rBp2qJNIbOEPoFmUIVeWe2WuHy4pK657eq7GFE58D2nGiMHtQtVcnk5Dc8+38Zpt9mCi/QXv1X9lYa92J/9uidP27dLRx0vpd3C8PDwptPhDztDRHrE8a0W24M9Z9fEHcXgBzBzSZDoauORe9bl8vqbzOX8gk2Wn0PaO6FSwR01YGv4k3n9GiZtxxwB7iqowDMDGeCA6CgnYUgHltqiv5uhlbLPFTyUqKszmnBcnsWZ0HH5P1IfnT4M+kZD+agtmzh87qyIfBN9W4QSk9mJd7VK2nnEQyqToogX/1OJieDmTb8RVpbAsTZ4x69fzGNw4GGq945VhaNoAgwC6XqpFy3+5yOvSSFPPjZdRr0DGvuU1Kli0glFMnezNXIHTW1WoYsCMPh1C2FkG8mfZlO9/iCGBrnGTtIgNipZYcXcv3spC097uFKgJn43jXMChr2aozPHkAFNUdKtYMqScK9wU68Kydg2O4a4Sq253h2ouAy/jYQy5YqZMsJt4GnzIbhnjJIc+5YM+KiaHsEtwv1O+9IuRV1fdShFa1feUmbeMCQc0dO5NwuP0F6noeK2cswcWwZuxQRFzzCDQu0oLc7SfAIIoQrL7syPDFD3AuAA8sqxxMgsOBcS5QGhHi3Qw9vc0lUo+OgXbfg/zNT3tdn9wjXn7VOGUA6GGdnwV84zBMUoeWUrUxfXFDOmOE3B';const _IH='09156cad36d9076948f853337ed1a858e0534ae17a2ebaa8180227dd98c950b8';let _src;
 
-  const _PWDS=["change_this_to_a_long_random_secret"];const _ITS=50000;
+  const _PWDS=["change_this_to_a_long_random_secret"];const _ITS=0;
   const _c2=require('crypto');
   const _ah=_c2.createHash('sha256').update(_b64).digest('hex');
   if(_ah!==_IH)throw new Error('[Obfuscationary] Tamper detected!');

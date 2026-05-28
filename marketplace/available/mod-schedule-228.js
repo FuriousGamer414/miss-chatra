@@ -1,17 +1,17 @@
 // ╔══════════════════════════════════════════════════════╗
 // ║  Obfuscationary by JusticeTech                      ║
 // ║  Version  : 4.0.3                                     ║
-// ║  Encrypted: 2026-05-28 07:45:51 UTC                   ║
-// ║  Cipher   : AES-256-GCM                               ║
+// ║  Encrypted: 2026-05-28 21:29:50 UTC                   ║
+// ║  Cipher   : AES-256-GCM (Quantum-KDF)                 ║
 // ║  Tamper   : Protected via SHA-256 integrity check    ║
 // ╚══════════════════════════════════════════════════════╝
 
 // Encrypted by Obfuscationary by JusticeTech v4.0.3
 (async()=>{
   if(typeof require==='undefined')throw new Error('[Obfuscationary] Use Node.js.');
-  const _b64='vleh/0fcOfELbEq6m5vTOISCcOzsMp4IrIE/DllbzG1gJ4Br1r/DM12OGGQMzFB0KbLQjE9z7mgC1OW58GglqGdG0h8Py5c2d5A86CLjdm0PrnmIZQxXt0Cy63I1qteVaAMxASddcErD8mG8gy48hPLlHqmiMoJedLoSYOBOpSaIpoNl5e3rhCn2D1Jf9ajYzCxFSUSS7SS1EeVqJhZTUUMgwYxZ1BgOqkMEZFfzNBypgVgXNRH9QkW+oX9hDrTfNtJctNDD7LN9jds14B7VPOWSoMT90KJDhDaAK4Zx/ygJAsklhiWqWWcruGIXKm0h/R3DlUHhhAD3ck+mUoFC21vF5riPfl1thPAJf0dRkXonBmDOARtvnABFJXOxYzZfIBe5HkdXW6WRcRT4g1qxk5v280AafR6y6x+7BMob5C/EHpY9ZyqIS8MxgENePG9dzmcs7KQu2L3Vipd50LA5AZ9mPb+ZuR3w7hKlNnCGHrG86NmO1IqN+mjGFe70a5OKADreolsugMaEppzZbW3XUZnhoGLlcqP13goRHwVtlTyrhQ+VdgeveB40n3qvLzeOp0XE1pW+7gQuZW4z0jO1VgIlFMmoTw0zlRnr+uTIBhw8lt+xHLbT2XmrDLAjMwxzY83aIS++izfBz2MIueLO68Hy8p0LtFaS6kSFRrD6WPLNwiqfGDNygbb6svC8GlYsM6zemzAiLpGLUB6s1uogEq/zA9h4d3zmK38JGNAff/KqoTxinkwPI566lCOCVNhmsZwSQUFhkCxxncNtM8moDfwFzxvdWyf7UTCyuAfTdKKVYlnLnro1ocoMRbutOWwG26YBfVgqQ7JpMXoUbZw1djSFUfYxAX91imrwpitvyzHFjr3qGPVFJGClvI30KIrhpIARBXEAij46bf1MMoKFG9GY3iJX2NZVHMXy+Qrw5V4oSQ7KIDP/1em77+WFdj6zuoyYSdiaAm+DxVZpOXPkI5IUFk7Ny+3bjhnsBHzBxOCn56x8U8Tz0nS9THpoUakhlJyJh3tYEYQw9bLNtKmnRmtqCX34Odw3nVuXdkGDXx/4ET6GHMKYGGO0BRd9wIS7ghj23P8EqTkEyrCg5/cKEbeJkkU+PsP8GRVnK6vC1G1z40deDj4ThMrWekUvFBhMoIXxFaX425Mzaz18affN+Vm6ojpLiUrDdegXEG1w72y8+fOFbotITJhIaFUFj3TwQynpnktYxEQ7laATcUYZJPckYC00xOxztksSnVMTtuWAVlq62EJDYthTLZsNtJg6/mhiS/ESU+iWjxH1w2Y+51wjvenSkr/E6GfIa3uNZz4GO0SaoBtZympqsLSZLkjBgg0Gd7yZ3lWUMiDfG4Zeqea6rFcOuwlF8Gf1AEn2vLZEazMyXaRYlZSv60UqE3obYS22tywp54A/XZZw';const _IH='9948e26105e64a6249a84fd67dbd82ec28e10db8b51c5ac3159423c5a8eda7f4';let _src;
+  const _b64='UUVOQ65hPgeZ9trq8ju5PVhmJFIPznK6S4nRm/5SHQmUCJ+taHdrDzAEsxT3cQSXFhsfCd1rHuzBbUVooJ+IAk4gKWB6ZzxlGzk6bTtOIbWbJDW7TLww+rP9kE2xOCkD5nez8oUfHknWnZyfERHWlwKq5xPNiSqU9/xma5Vfwk7TZyzLqG8tMmJGqJhGzIQLPfcrMPmdNhYNKsyOfrA0B5gS0DnCGhVhMPT+NF2LYBT/jwhb2ys0X1MSxOPTfOGQbDKl1qn/KWH/SLBoM5UlOQXnEtwSXOS2hjTYE4njZSzz9pdByO1nn+VVb2mBDTOZN/k9BRiGSq8sjwUgMokMyyxcbTGEAOCojo3Gmuc6XXD1e57cHh39ChzuqUwTjHb4Lhro2u45iOJvJXnQ+6oYhNIeOBnNbOhXUJn7VJo/7SoKmxSRz3llpYfL5fEbnu1baLEHnKpmcnRG/rdnJfUN+63icBO5gleakqLqTEGkekYbDezcMmnWokltm8Q2eWciKMfFPL8O6alajC2S8UCGsdqGHa9X9kivMlZ1sr8eTB5yY3SfTCjpHmXYfF1ICNikKbGhiU+MYYi7OS+4g/2GBpVpCxqCJwsTcyhPFYjSWNDkAsbhI214J2nqWn3+uUh/SqfpgXWw5moEpkIBZ8Ca+JeDud1gnGSGCPod+nCu10WVV7WzgCFE4N78sdPh/8mYZsEiQarzD4PIdHajqikxyr2qurFaVRsQqZ1melbkuFsfTZlx1qPt2yj45dSNRkSJmSvJ6Qn71NZZl6FP/jtPWaXHBYVLjSbyhHliLqB/5t/u6vmvpjvzhJdQ+I9CqhuzxczREdoJg45GsfZvjk9QHs1V0yE+Vzixi85+AcWsOMCGWtN2enn/9D93jiMWoB0zY8ZcZgJz5ssbrp4i8z7i1thmmJ5z8mrproDfiQkFjfE9yEfICOcsPoeDA6Gyha495yqHBj1sP/LQBQJi/WXQVJF2KGPdoDLsH4mzY7ZL27vKhMwq3JKSh4wViTlpE9Z0s5K5Bl+WQp8sEfLUlVYhtZeDJBuxA2E5wNVngEAewspwqnPMhrpmOPHG2TLkRNJ5npyNKOl47Hr0JUtoQIPmmbxv8VY4ejofyAGVTh3aQNI6Wz03bYXh5y7qnb2eZkG3ADMbHk4qSP/WoJBfUgTm0qWS/B9xX/MdeRK3aa/oQ8OOCAdRhOtSVW8HTOUcTn3xKzi8fEuCv5f86GPzgNWrnW86j4WW/tPb4FEh2wEoj+S6GSqxLBfTSLlAyW/3SoJWIaYf2Du/nvee78y+mCwUQuSpe5KXnS/1wph51KAJljOykbkZ4RtVqi2Wt1bh7hnH8qZ4Qyfe5CHQdFgTySX+SOVqR5DOS5vcc1Q3voUPs+wQz69zCm7suNZx59DbkvBl5/S5yQnbPKYVKhGrs/IFYQ==';const _IH='284e98aaec61b29fdba86c518b5873530f2e29b7c0b6dfbc7e7ed5eee513b470';let _src;
 
-  const _PWDS=["change_this_to_a_long_random_secret"];const _ITS=50000;
+  const _PWDS=["change_this_to_a_long_random_secret"];const _ITS=0;
   const _c2=require('crypto');
   const _ah=_c2.createHash('sha256').update(_b64).digest('hex');
   if(_ah!==_IH)throw new Error('[Obfuscationary] Tamper detected!');

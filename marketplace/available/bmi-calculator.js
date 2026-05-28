@@ -1,17 +1,17 @@
 // ╔══════════════════════════════════════════════════════╗
 // ║  Obfuscationary by JusticeTech                      ║
 // ║  Version  : 4.0.3                                     ║
-// ║  Encrypted: 2026-05-28 07:45:27 UTC                   ║
-// ║  Cipher   : AES-256-GCM                               ║
+// ║  Encrypted: 2026-05-28 21:28:48 UTC                   ║
+// ║  Cipher   : AES-256-GCM (Quantum-KDF)                 ║
 // ║  Tamper   : Protected via SHA-256 integrity check    ║
 // ╚══════════════════════════════════════════════════════╝
 
 // Encrypted by Obfuscationary by JusticeTech v4.0.3
 (async()=>{
   if(typeof require==='undefined')throw new Error('[Obfuscationary] Use Node.js.');
-  const _b64='ZBg+uun86m2K59dzKr/F9cEl+kAzM7SPQDfOQ4261VmHYZ/SHxHtztsxAn0XircQqFuSKNCLauxAohalWAA1Rwv0E8zBMDhr58fjHGwuQ5z9uwXSgwAWA8l3M9Nri1vwUA5MHCmR1GreNyhmAr2q/IqxGHvXPr9pNqWSQxVTV47kL5XEjeN7mXTG1VIC3RoOB0y4vsJxI9p0/4YLFzZxWBjDH+ZpVZe8dsZuPWCxViAVwoID1dr1iEkalVmGTa3LDRpvQkhnNlifRCRyQCIpvsVdjw7f6AyOAZI36zSvMQ/sVvq2tqQZDUW9o9YpHIQTAw5y9WKcH1b0HkaXNZVsKqhxhNdK0GIcyjz7bEFKOYEywyB8BiV3KOeVWk209ujKlUy36erwAww+nrVmn0UmZjpmqa9uPVLqQ8oF8+FNUzaGY/OjBoou093OTZHnthQ89LkyipT7ED0k3EoEN0wstFOyOneSaGSaAOZsyakUXVAYGE7Who8KLV4Au8EF1v2ibwNazkYw8MRXRAp7mtxfgZwut3UjVP+Ok0q4kkcXB7dmhlWi8A5Uc0pc1NqDiV7USBXBVnUTRps5pGhDGh20lHhfnHnT7Tv6c2cVXT/iRyPzMIYcO17GmbvxWL3F8/3Cu/6L7wwx8TQsjvDuNTa/oKw1+N55NRADxajztVVnn5RBk4790YZOYqWqqRpk035VKCHxpJbe/ya0WLS4qWyg4hbbXP6lVhI8kajFMC9wDGt+rYgoTi61GiEmUtNHNrNN54QMq45C6eHpz9qux6wyjfJ7M76S4jZ7K08c+HKYtI+tJFPIrSmpN/sOfTvbGXeOQqTLSr27cOdkr1woULz8NgsJS4VvtLU7E2Gx0CBRRAu2ECUJA6FpsUCGGOTvFVe5ygVuOB10Z7MGQeeo0ZQctqnX3jYXtDTi3XOdq5X6F9MILKN64kigP18JEQj/XcpIPr/ozi2r2am57/3Q6xuUCMU9JQ385zOKO6Ey2lJ4wEcFHYhCNWS1Zna7bTrvV9cDZKXFwV+uv/RXLsrPnutyLYYxwJLive6eBwzP4MwChDuseXr1C44Kkq63nAiAag3aYMT6jFT6AFoEZoaA7Et5pqkYzhWeDs0XYmbnVSZbbrbPf1O/4mTPC/WGNZJYoBC7QUngXtS/88maRhSYd89x5mXuqtGD/NQqi0El/5c0szY0vPKns1v5F6agEPfkGyi7chAP2KUVAbOEFqVhH9XjzsrnEDIU+nHtPYDyMZIFe8XT7hgy5gdzj1DGF1Vw06QLYgSVqTjkiU7cWHMNMVh7Od7UlnDJId1ejyDyMmmxKo+IsOQUXRxqrgs4utY64gC2YEwYUbyVPpHkVyrp/7+2gC0vpTYcCUXg3rsxn6BN1xN7seVegbFDzy56BV8Wft2a1I9axOz0y8Vpl5z61feJcJvIw2/A';const _IH='d573d5144eea1e3fb824885a12b8044e3ae1fd6ae656436f3133d98ab87f82f7';let _src;
+  const _b64='UUVOQ2oyQNJrvvgsUdIre1PNa/GkGpSl/EbqntJvNdkDHn4RwRlP8G/XaBy48gLb01RMm0hZoFvOAbA6lSCR2G+r0KBMRskpPo8zVThymmUJOOdwjxur667ZfxEHKJq+TxX2A8C5CokNidmDq1I228pxbtGEU2cM8mCMIv0eNfuqmvw5quRW8Z7bme9D053XKe2Ih/AP01B/m9anLBdip90DR0s2C22A1VRbkwc+lhWjl4DU3ZXK9iqpCsGvswPsOHlt6acQGriSYoKcOM/FNO4SanFvUbxDK/aGNbUFeU/cH3qbwn9f/pY9p28ON2+kFhkSrVSylXCPMWI6yIWvfnzQtiQXMUJsS3lVX7IIULxb21XZRrUy8XJPzx6GKfvUIdv9pZMZw/fGhbmXA7GDVf7fsNJMm0eASIKqw2mlEOczbLj/ZR35W4PSS/89THuVNW0fZPUMQMZiHnXicKq0PjY7kPeqWXkKqgkPeN0+bIzQ18hV+bNO0btozmej34tlDb7WIDwS+g+9GLFEFCu4/Btkvz5QsoJAu3i5jvSnEHtl3O91FQId0mjMI9cArxWZEiSDvD4xmC7r6GG9VHaihRz6F0HIQKZAo+HiAWy2bRbe4lrPAKAK56BMamimDcL6ArJkIfWkOU+BXN2R3lygLRDVQ4egmIiNEKuxVb6njJ64q/ZPgbRu/Qp3Q3dxTn3F3qtISIG/Lj8TPW+c/NF5dN9uTLc/FpxRDtid5tNk3apZ9Utby5kjhar/whfiXopGSKjGiKsOdpbMDt2K94aIVjjoHFz0wCWNmXDEgUyHnzS6zOSab076niT416XDQ5JRtBPw3q6C3upSMatiIkV03kZ9cs5miMxi+VOfKM9JG6eFNtu0GWddxYEyddeKs5s20/VZJ2H5ZDA42M47SSQpXgNJucgDz48y1qr3Zyr6/kkyUYyXtgipTb8SpVzyAvCHk3q70V0qdJqmCWmVMTxnBZMmvFMGdS53j81J89VAQc78k+r/qGiTUjKwI54JOr9cl3xvWDa667bx8cfxR9G6zDgNwYhuXiP2RQb9Nv0Aj66eHLxigEIdP19DglnHdCdmOIdZJKDjwKkJllVl+zyRuAqhZD9de+xSAPH7nCPAFTBUtYjj8qfjwKmyKbkcP93ZZZzgzUItW0HTtrL4Y2f3IMHLnPRh6ookY3ktsJv15cZOka32cKWKc4/+BuSshlJ4yXsWSNeu5Dc4+HdxDWuC2s2hL8cjRotJ3jh28hpFvZX/ZIrrjXyoZ111aaDVIvcofHJu7nS/jCjproLg9gdN5kXab02cBK9ODhFmAYrjR4DO0zCtJrndHReDJ/bgrvitgc5WhFsBN/PDEb0em9Bsg/2KgKgEeXlf0/6f9fzFNlCzjMByldm347BoMU/MjkIUVT3NzKtpnqMP6gqT1SHDYpaT6plfVlzgYQ==';const _IH='101d9778b174f49aed74e5fce36d89ca4fc22b376fbbfbef3603ec80c843b99b';let _src;
 
-  const _PWDS=["change_this_to_a_long_random_secret"];const _ITS=50000;
+  const _PWDS=["change_this_to_a_long_random_secret"];const _ITS=0;
   const _c2=require('crypto');
   const _ah=_c2.createHash('sha256').update(_b64).digest('hex');
   if(_ah!==_IH)throw new Error('[Obfuscationary] Tamper detected!');

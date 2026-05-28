@@ -1,17 +1,17 @@
 // ╔══════════════════════════════════════════════════════╗
 // ║  Obfuscationary by JusticeTech                      ║
 // ║  Version  : 4.0.3                                     ║
-// ║  Encrypted: 2026-05-28 07:45:28 UTC                   ║
-// ║  Cipher   : AES-256-GCM                               ║
+// ║  Encrypted: 2026-05-28 21:28:51 UTC                   ║
+// ║  Cipher   : AES-256-GCM (Quantum-KDF)                 ║
 // ║  Tamper   : Protected via SHA-256 integrity check    ║
 // ╚══════════════════════════════════════════════════════╝
 
 // Encrypted by Obfuscationary by JusticeTech v4.0.3
 (async()=>{
   if(typeof require==='undefined')throw new Error('[Obfuscationary] Use Node.js.');
-  const _b64='KufHiD1sA7vBBY5IfjuxFPZvz9q/XrNdv3XK/jfeJpXkL+KaaLWzsh6OEu6ZkDLMplKFji9gAIL07icHbEcdBPHa18HYFcj8uhccrcckvZqRpVr42H9k9JvuG8t74RPkcQkM07Bp+XRx50kzJvHMGKHXu8u6V1kk6iw7iOoG2qdrbwb6WdrNP7cAYewTA8C+81QKdy8W895qzIBypq6youqlPwkcvwtYo3E/cIo6GWkFQegOYU9kFpbsJJF4v+04RTVOxuYr3nNn9sChBEUGhMPOH5RpmkNWN20cWDP1lkd41whkPuC8sNDSMqImMWj838fNa2EaJE45/cM6O6BhuoHooguw7qVlH2g5jtWE5WCgtygmzXTETO1KWl/tr3hAuk73Dc4hcc9o+BKwbF+L9cE6/NC9XOm2VQ2cFu7IovFD83+i3MxtcYH/4tkcmiHX4GhWLrTJODHYipwk7LSAByOb656jyT5zhdrZtUWO/JQ7nL3sq7EL3D7POAXWmEeSOSZP3JwMUIHKa59YuQoQZ34CRuprHdeciTXiDem2XJdTVBG0diGc8D08OLclGFc5Gr1a2qIXEARJUZ75HU3gdFf0/CF+WpjZTQfDHPdEuLp7rl+juMnk8SzdtCi89noXVaztHuPgWH5KJZO5N8g8TxIHPdJPOq8jNNX23pP90ueIvM0isAK/tW5JWv3QMeiP2Mu8inHenlRyFAK/w0BicCT2jL1saX6UQzzeUdzHRYR1FA==';const _IH='9c78eb8c47e3552bff4a7a2918469d748c1438f3a162eefae9197c610b93cfda';let _src;
+  const _b64='UUVOQ5yT21VWetvfz+1NdxKXGFhC6WU/c8vlYR1WJV+AvqEZQQxqljcDWohmOBz9YU+dltD6ev0hMeKF8JuCV5Kw9htx1pd1eilEbiy5p2odWPI/eSr4WP+q7S7/Ci7YVKcBUSEOitJ/5t35nd7cOw4umMc8kjZAPaJ9uWhgBPkXR81BybuGPJjbOWg1SiQUttj6DBQMAJ1Tof0RHWhNAQB0AgCg8IBpRJekW53NKdqzcvYYwShusTLncyM1OV/FKwMvVgszBFQQlz+QmGOh7EWMFD8bJcnHdqg4Kg3FFUSTRmggMADaIDlkESbhIg0JRS+rqBJZC1/6CY3vj6fAQ0h+VQwYxmZMfH/w5eejR16XpyqoAIw1CqmfEDyx+pJOqdu2uN/MR0fjcnw+O4jvYB3n9oi2r8Rj4TvgS23rLnzSXR+bLONuX/OLW125TrvI1XgU174X8h7mRDg8GdbtTngiDirGRNu+5/xejdFddo6WGDVrrcx5LQixkqzSGpvOyG1edWBbeI7zJCBn1LNpqi71irzr/Eg7Ax6RX+aNnplfkTv+rrZBW6EebMcn5nMBtnDrTzpirJ5YXiGoE0UUJAvL+HbirgYHqCCOVv0HVFPijXQJ8Q8dWy+mWg2NA1ecbjQu+FH+iBtGpmmLkPcYnfpPz3mwyNqmJqyFGczepZWhTsoADD+gQLbESkUO76raSztni72UiBp4LO0bhOaXQlLorXVw4RJeFPctKEXyN2FPSnlPu7A=';const _IH='1847049bc47108405037c0906e019ac5afc37764bbc326bc8d8f3ee96cd6a545';let _src;
 
-  const _PWDS=["change_this_to_a_long_random_secret"];const _ITS=50000;
+  const _PWDS=["change_this_to_a_long_random_secret"];const _ITS=0;
   const _c2=require('crypto');
   const _ah=_c2.createHash('sha256').update(_b64).digest('hex');
   if(_ah!==_IH)throw new Error('[Obfuscationary] Tamper detected!');
